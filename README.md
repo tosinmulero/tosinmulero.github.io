@@ -1,6 +1,6 @@
 # DATA ANALYTICS PORTFOLIO
 # Project 1
-**Title:** Insurance Policies Data Dashboard
+**Title:** [Insurance Policies Data Dashboard](https://github.com/tosinmulero/tosinmulero.github.io/blob/main/Insurance%20Policies%20Data%20Dashboard.xlsx)
 
 **Tools Used:** Microsoft Excel(Pivot table, Pivot chart, Timelines, Slicers, Conditional Formatting, Power Query Editor)
  
