@@ -22,3 +22,15 @@
 
 **Dashboard Overview:**
 ![Supermarket](Supermarket.png)
+
+# Project 3
+
+**Title:** CAR DATA SQL CLEANSING
+ 
+**SQL Code:** [Car Data SQL Queries](https://github.com/tosinmulero/tosinmulero.github.io/blob/main/CAR_DATA.sql)
+ 
+**SQL Skills Used:** SELECT Statements
+ 
+**Project Description:**
+ 
+**Technology used:** SQL Server
