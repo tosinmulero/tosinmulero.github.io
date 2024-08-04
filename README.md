@@ -2,7 +2,7 @@
 # Project 1
 **Title:** [Insurance Policies Data Dashboard](https://github.com/tosinmulero/tosinmulero.github.io/blob/main/Insurance%20Policies%20Data%20Dashboard.xlsx)
 
-**Tools Used:** Microsoft Excel(Pivot table, Pivot chart, Timelines, Slicers, Conditional Formatting, Power Query Editor)
+**Tools Used:** Microsoft Excel(Pivot table, Vlookup and Hlookup, Data Validation, Flash Fill, Charts and Graphs,Macros, Solver, Data Tables, Pivot chart, Timelines, Slicers and Conditional Formatting)
  
 **Project Description:** This Project was carried out to analyze the insurance policies data for policy holders accross different locatons/regions.
  
@@ -31,7 +31,7 @@
  
 **SQL Code:** [Car Data SQL Queries](https://github.com/tosinmulero/tosinmulero.github.io/blob/main/CAR_DATA.sql)
  
-**SQL Skills Used:** SELECT Statements
+**SQL Skills Used:** SELECT Statements, Aggregate Functions, GROUP BY, Data Filtering and Sorting, Subqueries
  
 **Project Description:**
  
