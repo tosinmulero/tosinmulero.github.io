@@ -13,7 +13,9 @@
 
 
 # Project 2
+
 **Title:**[Supermarket Sales Dashboard](https://github.com/tosinmulero/tosinmulero.github.io/blob/main/Insurance%20Policies%20Data%20Dashboard.xlsx)
+
 **Tools Used:**PowerBI Desktop, Power Query Editor, Data Modelling, Filters and Slicers.
  
 **Project Description:** This analysis was carried out to get insights about Average Rating By Product Line, Total Sales By city, Total Transacion By Payment Method, Sum of Sales By Branch and Sum of Quantity By Product Line.
