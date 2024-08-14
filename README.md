@@ -73,7 +73,7 @@
  
 **SQL Code:** [PIZZA SALES](https://github.com/tosinmulero/tosinmulero.github.io/blob/main/PIZZA%20SALES.sql)
  
-**SQL Skills Used:** SELECT Statements, Aggregate Functions, GROUP BY, Data Filtering and Sorting, Subqueries
+**SQL Skills Used:** SELECT Statements, Aggregate Functions, GROUP BY, Data Filtering and Sorting, Subqueries etc
  
 **Project Description:** The dashboard contains detailed information on various pizza sales, order dates, order time and other features
 **Technology used:** SQL Server
