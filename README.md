@@ -27,7 +27,7 @@
 
 # Project 3
 
-**Title:**[Supermarket Sales Dashboard](https://github.com/tosinmulero/tosinmulero.github.io/blob/main/Insurance%20Policies%20Data%20Dashboard.xlsx)
+**Title:**[Supermarket Sales Dashboard](https://github.com/tosinmulero/tosinmulero.github.io/blob/main/SUPERMARKET%20SALES%20DASHBOARD.pbix)
 
 **Tools Used:**PowerBI Desktop, Power Query Editor, Data Modelling, Filters and Slicers.
  
