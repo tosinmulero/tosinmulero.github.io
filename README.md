@@ -11,6 +11,19 @@
 **Dashboard Overview:**
 ![Insurance](Insurance.png)
 
+# Project 2
+**Title:** Food Sales Data Dashboard
+
+**Tools Used:** Microsoft Excel(Pivot table, Vlookup and Hlookup, Data Validation, Flash Fill, Charts and Graphs,Macros, Solver, Data Tables, Pivot chart, Timelines, Slicers and Conditional Formatting)
+ 
+**Project Description:** This Project was carried out to analyze the Tota Sales by Category, Product and by city in a store
+ 
+**Key findings:** The dashboard  provides summary  Total Sales By city, Category and Product and it was discovered that may and october had the highest sales by city and also by category.
+
+**Dashboard Overview:**
+![Food Sales](Food Sales.png)
+
+
 
 # Project 2
 
