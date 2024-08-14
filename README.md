@@ -12,7 +12,7 @@
 ![Insurance](Insurance.png)
 
 # Project 2
-**Title:** Food Sales Data Dashboard
+**Title:** [Food Sales Data Dashboard](https://github.com/tosinmulero/tosinmulero.github.io/blob/main/Food%20Sales%20Data%20Dashboard.xlsx)
 
 **Tools Used:** Microsoft Excel(Pivot table, Vlookup and Hlookup, Data Validation, Flash Fill, Charts and Graphs,Macros, Solver, Data Tables, Pivot chart, Timelines, Slicers and Conditional Formatting)
  
