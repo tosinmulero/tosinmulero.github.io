@@ -2,7 +2,7 @@
 # Project 1
 **Title:** [Insurance Policies Data Dashboard](https://github.com/tosinmulero/tosinmulero.github.io/blob/main/Insurance%20Policies%20Data%20Dashboard.xlsx)
 
-**Tools Used:** Microsoft Excel(Pivot table, Vlookup and Hlookup, Data Validation, Flash Fill, Charts and Graphs,Macros, Solver, Data Tables, Pivot chart, Timelines, Slicers and Conditional Formatting)
+**Tools Used:** Microsoft Excel(Pivot table and pivot charts, slicers, timeline controls, form controls, conditional formatting, data validation, named ranges, dynamic formulas(index, match, offset, indirect, if, vlookup and xlookup), Macros(VBA), Power query, power pivot, charts and graphs,bar charts, line charts, pie chart etc)
  
 **Project Description:** This Project was carried out to analyze the insurance policies data for policy holders accross different locatons/regions.
  
@@ -14,7 +14,7 @@
 # Project 2
 **Title:** [Food Sales Data Dashboard](https://github.com/tosinmulero/tosinmulero.github.io/blob/main/Food%20Sales%20Data%20Dashboard.xlsx)
 
-**Tools Used:** Microsoft Excel(Pivot table, Vlookup and Hlookup, Data Validation, Flash Fill, Charts and Graphs,Macros, Solver, Data Tables, Pivot chart, Timelines, Slicers and Conditional Formatting)
+**Tools Used:**Microsoft Excel(Pivot table and pivot charts, slicers, timeline controls, form controls, conditional formatting, data validation, named ranges, dynamic formulas(index, match, offset, indirect, if, vlookup and xlookup), Macros(VBA), Power query, power pivot, charts and graphs,bar charts, line charts, pie chart etc)
  
 **Project Description:** This Project was carried out to analyze the Tota Sales by Category, Product and by city in a store
  
