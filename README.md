@@ -49,7 +49,7 @@
 **Key findings:**The dashboard provides detailed information on the weekly sales by temperature, total store, month and holiday flag
 
 **Dashboard Overview:**
-![walmart.png](walmart.png.png)
+![walmart](walmart.png)
 
 
 
