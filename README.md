@@ -21,7 +21,7 @@
 **Key findings:** The dashboard  provides summary  Total Sales By city, Category and Product and it was discovered that may and october had the highest sales by city and also by category.
 
 **Dashboard Overview:**
-![Food Sales](Food Sales.png)
+![Food](Food.png)
 
 
 
