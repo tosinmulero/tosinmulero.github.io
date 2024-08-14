@@ -54,7 +54,7 @@
 
 
 
-# Project 3
+# Project 5
 
 **Title:** CAR DATA SQL CLEANSING
  
@@ -64,4 +64,16 @@
  
 **Project Description:** The dashboard contains detailed information on various cars, including their specifications, year of manufacture, selling price, and other attributes. 
  
+**Technology used:** SQL Server
+
+
+# Project 6
+
+**Title:** PIZZA SALES SQL QUERY
+ 
+**SQL Code:** [PIZZA SALES](https://github.com/tosinmulero/tosinmulero.github.io/blob/main/PIZZA%20SALES.sql)
+ 
+**SQL Skills Used:** SELECT Statements, Aggregate Functions, GROUP BY, Data Filtering and Sorting, Subqueries
+ 
+**Project Description:** The dashboard contains detailed information on various pizza sales, order dates, order time and other features
 **Technology used:** SQL Server
